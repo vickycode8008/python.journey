@@ -1,4 +1,4 @@
-# Week 8: File Handling — Reading, Writing & Managing Data
+# Week 8: File Handling — Reading, Writing & Managing Data.
 
 ## Overview
 Real applications need to read and write data that persists beyond a single run. This week you'll master text file handling, binary file operations, and build two substantial projects: a Journal Manager and a Library Management System. These projects will tie together everything you've learned so far in a meaningful, practical context.

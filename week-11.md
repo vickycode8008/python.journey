@@ -1,4 +1,4 @@
-# Week 11: The Final Frontier — CSV, GUIs, Threads, DSA & NumPy
+# Week 11: The Final Frontier — CSV, GUIs, Threads, DSA & NumPy.
 
 ## Overview
 You've made it to the final week! This week is a power-packed survey of Python's broader ecosystem — practical topics that professional Python developers use daily. You'll process CSV data, build a desktop GUI with Tkinter, explore multithreading for concurrent tasks, review essential data structure modules, work with dates and times, and get your first taste of NumPy for numerical computing.

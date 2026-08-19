@@ -1,4 +1,4 @@
-# Week 4: Lists — Python's Swiss Army Knife
+# Week 4: Lists — Python's Swiss Army Knife.
 
 ## Overview
 Lists are one of the most frequently used data structures in Python — ordered, mutable, and incredibly flexible. This week you'll master creating and manipulating lists, using Python's rich set of list functions, and writing elegant list comprehensions that compress loops into single, readable lines.

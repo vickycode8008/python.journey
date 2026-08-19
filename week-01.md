@@ -1,4 +1,4 @@
-# Week 1: Python Foundations — Getting Started
+# Week 1: Python Foundations — Getting Started.
 
 ## Overview
 This week lays the absolute groundwork for your Python journey. You'll set up your environment, understand how Python thinks about data through variables and datatypes, and start writing your first real expressions. These fundamentals are the backbone of everything you'll build in the coming weeks.

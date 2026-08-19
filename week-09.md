@@ -1,4 +1,4 @@
-# Week 9: Object-Oriented Programming — Thinking in Objects
+# Week 9: Object-Oriented Programming — Thinking in Objects.
 
 ## Overview
 OOP is the paradigm shift that makes large software manageable. This week you'll learn to model the world as objects with attributes and behaviours — then extend those models through inheritance and polymorphism. These concepts are the foundation of virtually every major Python framework: Django, Flask, SQLAlchemy, and more.

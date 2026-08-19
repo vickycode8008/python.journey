@@ -1,4 +1,4 @@
-# Week 10: Databases — Python Meets SQL
+# Week 10: Databases — Python Meets SQL.
 
 ## Overview
 Almost every real-world application needs a database. This week you'll learn to connect Python to SQLite (a lightweight, file-based database that requires zero setup), write SQL queries from Python, build a full bank database project, and get an introduction to SQLAlchemy — the industry-standard ORM that lets you interact with databases using pure Python objects instead of raw SQL.

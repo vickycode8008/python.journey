@@ -1,4 +1,4 @@
-# Week 5: Collections — Tuples, Sets & Dictionaries
+# Week 5: Collections — Tuples, Sets & Dictionaries.
 
 ## Overview
 Python gives you four core collection types, and this week you complete the set. Tuples offer immutable, ordered storage; sets give you unique, unordered collections perfect for membership testing; and dictionaries are the key-value powerhouses behind almost every real-world Python application. Understanding when to use which structure is a crucial developer skill.

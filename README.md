@@ -1,4 +1,4 @@
-# 🐍 Python Learning Plan — Abdulbari's Udemy Course
+# 🐍 Python Learning Plan — Abdulbari's Udemy Course.
 
 A structured, 11-week self-study plan for complete beginners learning Python through **[Abdulbari's Python course on Udemy](https://www.udemy.com/course/python-tutorial-for-beginners/)**, studying part-time (~1–1.5 hours/day).
 

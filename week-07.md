@@ -1,4 +1,4 @@
-# Week 7: Advanced Functions — Built-ins, Lambdas, Decorators & Error Handling
+# Week 7: Advanced Functions — Built-ins, Lambdas, Decorators & Error Handling.
 
 ## Overview
 This week fills in the remaining "advanced function" toolkit and introduces one of the most important topics in production Python: exception handling. You'll learn to use Python's powerful built-in functions, write compact lambda expressions, build decorators, and write code that fails *gracefully* — a mark of a professional developer.

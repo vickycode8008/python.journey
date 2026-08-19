@@ -1,4 +1,4 @@
-# Week 2: Controlling the Flow — Decisions & Loops
+# Week 2: Controlling the Flow — Decisions & Loops.
 
 ## Overview
 This week you move from simple sequential code to code that *thinks* and *repeats*. Conditional statements let your programs make decisions, while loops let them do repetitive work efficiently. These are arguably the two most important building blocks in all of programming, and Python makes both feel intuitive.

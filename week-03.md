@@ -1,4 +1,4 @@
-# Week 3: Mastering Strings — Text Processing & Pattern Matching
+# Week 3: Mastering Strings — Text Processing & Pattern Matching.
 
 ## Overview
 Strings are everywhere — user inputs, file contents, APIs, web pages. This week you'll go deep into Python's powerful string capabilities, from basic operations to built-in methods, formatted output, and even regular expressions for pattern matching. By the end, you'll be able to manipulate and format text like a pro.

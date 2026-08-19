@@ -1,4 +1,4 @@
-# Week 6: Functions — Writing Reusable, Elegant Code
+# Week 6: Functions — Writing Reusable, Elegant Code.
 
 ## Overview
 Functions transform you from someone who writes scripts into someone who writes *programs*. This week covers everything from defining basic functions to advanced concepts like variable-length arguments, multiple return values, iterators, generators, and recursion. Writing good functions is the single biggest leap in code quality you can make as a beginner.
