@@ -132,19 +132,4 @@ By the end of Week 11, you will be able to:
 - ✅ Understand concurrency basics with multithreading
 
 ---
-
-## 📖 What's Next After This Course?
-
-Once you complete all 11 weeks, consider exploring:
-
-| Path | Technologies |
-|------|-------------|
-| 🌐 Web Development | Flask, Django, FastAPI |
-| 📊 Data Science | Pandas, Matplotlib, scikit-learn |
-| 🤖 Automation | Selenium, BeautifulSoup, PyAutoGUI |
-| ☁️ Cloud & APIs | requests, boto3, REST APIs |
-| 🧪 Testing | pytest, unittest |
-
----
-
 *Happy coding! 🐍 — One week at a time.*
