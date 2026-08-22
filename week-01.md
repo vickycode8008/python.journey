@@ -19,18 +19,18 @@ This week lays the absolute groundwork for your Python journey. You'll set up yo
 ## Daily Plan
 
 ### Day 1 — Introduction & Setup *(~1 hr)*
-- [ ] Watch Section 1: Introduction to Python — understand what Python is, where it's used, and why it's beginner-friendly
-- [ ] Watch Section 2: Setup & Installation — install Python and your IDE (VS Code or PyCharm)
-- [ ] Write and run your very first `print("Hello, World!")` script
+- [x] Watch Section 1: Introduction to Python — understand what Python is, where it's used, and why it's beginner-friendly
+- [x] Watch Section 2: Setup & Installation — install Python and your IDE (VS Code or PyCharm)
+- [x] Write and run your very first `print("Hello, World!")` script
 
 **Mini-task:** Write a script that prints your name, your city, and why you want to learn Python — one `print()` per line.
 
 ---
 
 ### Day 2 — Variables & Datatypes *(~1 hr)*
-- [ ] Watch Section 3: Variables — naming rules, assignment, re-assignment
-- [ ] Watch Section 4: Datatypes — `int`, `float`, `str`, `bool`, `NoneType`
-- [ ] Experiment with `type()` to inspect different variables
+- [x] Watch Section 3: Variables — naming rules, assignment, re-assignment
+- [x] Watch Section 4: Datatypes — `int`, `float`, `str`, `bool`, `NoneType`
+- [x] Experiment with `type()` to inspect different variables
 
 **Mini-task:** Create variables for your name (str), age (int), height in metres (float), and whether you've coded before (bool). Print each one with a descriptive label.
 
