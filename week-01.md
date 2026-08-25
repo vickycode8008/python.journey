@@ -88,8 +88,8 @@ print("Power:", a ** b)
 ---
 
 ### Day 5 — Challenges *(~1–1.5 hrs)*
-- [ ] Watch Section 8: Challenges — work through the practice problems
-- [ ] Re-attempt any challenges that felt tricky without looking at the solution first
+- [x] Watch Section 8: Challenges — work through the practice problems
+- [x] Re-attempt any challenges that felt tricky without looking at the solution first
 
 **Mini-task:** Solve these on your own:
 1. Swap two variables without using a third variable.
