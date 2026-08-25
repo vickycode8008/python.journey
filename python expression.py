@@ -48,4 +48,13 @@ mtr = int(input("Enter the meter: "))
 mtr_to_km = mtr *1.60934
 print(mtr_to_km)
 
+
+#cuboid
+
+l = int (input("Enter the length :"))
+b = int(input("Enter breadth:"))
+h = int(input("Enter value of height = "))
+area_of_cubiod = 2*(l*h+l*b+b*h)
+print("Area of cuboid is : " , area_of_cubiod)
+
 #let's see where the journey goo :)
