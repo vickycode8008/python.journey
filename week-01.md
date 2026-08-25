@@ -49,8 +49,8 @@ print("Coded before?", has_coded_before)
 ---
 
 ### Day 3 — Literals, Constants & Type Conversion *(~1–1.5 hrs)*
-- [ ] Watch Section 5: Literals & Constants — numeric, string, boolean literals; using `UPPER_CASE` for constants
-- [ ] Watch Section 6: Base Conversion & Type Conversion — `int()`, `float()`, `str()`, `bin()`, `hex()`, `oct()`
+- [x] Watch Section 5: Literals & Constants — numeric, string, boolean literals; using `UPPER_CASE` for constants
+- [x] Watch Section 6: Base Conversion & Type Conversion — `int()`, `float()`, `str()`, `bin()`, `hex()`, `oct()`
 
 **Mini-task:** Convert the number `255` to binary, octal, and hexadecimal. Then take a string `"42"` and add it to an integer `8` after converting it correctly.
 
@@ -67,8 +67,8 @@ print(result)     # should print 50
 ---
 
 ### Day 4 — Operators & Expressions *(~1–1.5 hrs)*
-- [ ] Watch Section 7: Operators & Expressions — arithmetic (`+`, `-`, `*`, `/`, `//`, `%`, `**`), comparison, logical operators
-- [ ] Watch Section 9: Arithmetic & Assignment Operators — `+=`, `-=`, `*=`, `/=`, `//=`, `**=`
+- [x] Watch Section 7: Operators & Expressions — arithmetic (`+`, `-`, `*`, `/`, `//`, `%`, `**`), comparison, logical operators
+- [x] Watch Section 9: Arithmetic & Assignment Operators — `+=`, `-=`, `*=`, `/=`, `//=`, `**=`
 
 **Mini-task:** Write a mini calculator script. Given two numbers, print their sum, difference, product, quotient (regular and floor), remainder, and power.
 
