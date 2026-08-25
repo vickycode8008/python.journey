@@ -1,0 +1,11 @@
+#quadratic equation finding roots value
+
+import math
+a = int(input("Enter a value of a : "))
+b = int(input("Enter a value of b : "))
+c = int(input("Enter a value of c : "))
+
+
+r1 = (-b + math.sqrt(b * b -4 * a * c)) /(2 * a)
+r2 = (-b - math.sqrt(b * b -4 * a * c)) /(2 * a)
+print(r1,r2)
