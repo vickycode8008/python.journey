@@ -99,9 +99,9 @@ print("Power:", a ** b)
 ---
 
 ### Day 6 — Review & Light Practice *(~45 min)*
-- [ ] Review your notes from Days 1–5
-- [ ] Re-read the official Python docs on [Built-in Types](https://docs.python.org/3/library/stdtypes.html) for 10 minutes
-- [ ] Redo 2–3 challenges from scratch without notes
+- [x] Review your notes from Days 1–5
+- [x] Re-read the official Python docs on [Built-in Types](https://docs.python.org/3/library/stdtypes.html) for 10 minutes
+- [x] Redo 2–3 challenges from scratch without notes
 
 **Mini-task:** Write a script that asks (via `input()`) for a user's birth year and prints their approximate age.
 
@@ -114,9 +114,9 @@ print("You are approximately", age, "years old.")
 ---
 
 ### Day 7 — Buffer & Catch-Up Day *(~30–45 min)*
-- [ ] Catch up on anything you missed or felt shaky on
-- [ ] Write a short summary (3–5 bullet points) of what you learned this week
-- [ ] Draft and post your LinkedIn update (see below)
+- [x] Catch up on anything you missed or felt shaky on
+- [x] Write a short summary (3–5 bullet points) of what you learned this week
+- [x] Draft and post your LinkedIn update (see below)
 
 ---
 
