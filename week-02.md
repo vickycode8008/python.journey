@@ -18,7 +18,7 @@ This week you move from simple sequential code to code that *thinks* and *repeat
 
 ### Day 1 — Conditional Statements *(~1–1.5 hrs)*
 - [x] Watch Section 10: `if`, `elif`, `else` — syntax, indentation rules, boolean conditions
-- [ ] Understand how Python evaluates `True`/`False` expressions
+- [x] Understand how Python evaluates `True`/`False` expressions
 
 **Mini-task:** Write a grade classifier:
 - Score ≥ 90 → "A"
