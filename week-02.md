@@ -129,4 +129,3 @@ for i in range(1, 6):
 
 ## Week Goal
 By Sunday, you should be able to **write programs that make decisions and repeat actions** — including nested conditions, looping with `for` and `while`, and using `match` for clean branching logic.
-
