@@ -57,6 +57,7 @@ else:
     print("Access denied.")
 ```
 
+
 Also try: `10 < 50 < 100` — explain to yourself why Python allows this chaining.
 
 ---
