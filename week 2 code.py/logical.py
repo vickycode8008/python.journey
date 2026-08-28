@@ -15,4 +15,14 @@ b = 5
 if a!=10 or b==5:
     print(True)
 else:
-    print(False)
+    print(False)        
+
+
+
+#using not operator(if a is true not a is false)
+
+age = 19
+if not age>=18:
+    print("You are not elligble")
+else:
+    print("You are elligble")    
