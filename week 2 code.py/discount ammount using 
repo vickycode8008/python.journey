@@ -1,0 +1,10 @@
+amount = float(input("Enter the amount: "))
+
+if amount <= 1000:
+    print("PAY : ",amount - amount*0.10)
+elif amount >=1000 and amount<=5000:
+    print("PAY : ",amount-amount*0.15)
+elif amount>=5000 and amount<=1000:
+    print("PAY : ",amount - amount(*0.20))
+else:
+    print("PAY : ",amount - amount*0.25)
