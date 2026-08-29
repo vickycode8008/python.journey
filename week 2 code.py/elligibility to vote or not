@@ -1,0 +1,5 @@
+n = int(input("Enter your age : "))
+if n >=18:
+    print("Your are elligible to vote")
+else: 
+    print("Your are not elligible to vote")
