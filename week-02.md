@@ -42,8 +42,8 @@ else:
 ---
 
 ### Day 2 — Nested `if` & Short Circuit Evaluation *(~1–1.5 hrs)*
-- [ ] Watch Section 12: Nested `if` — conditions inside conditions
-- [ ] Watch Section 13: Short Circuit (`and`, `or`, `not`) & Chaining (`1 < x < 10`)
+- [x] Watch Section 12: Nested `if` — conditions inside conditions
+- [x] Watch Section 13: Short Circuit (`and`, `or`, `not`) & Chaining (`1 < x < 10`)
 
 **Mini-task:** Write a login validator. Check if a username is "admin" **and** a password is "1234". Use short circuit evaluation — only check the password if the username is correct.
 
@@ -62,8 +62,8 @@ Also try: `10 < 50 < 100` — explain to yourself why Python allows this chainin
 ---
 
 ### Day 3 — Challenges *(~1 hr)*
-- [ ] Watch Section 11: Challenges — solve all conditional challenges from the course
-- [ ] Re-attempt any you got wrong, without looking at solutions
+- [x] Watch Section 11: Challenges — solve all conditional challenges from the course
+- [x] Re-attempt any you got wrong, without looking at solutions
 
 **Mini-task:** Build a BMI calculator:
 - Take weight (kg) and height (m) as input
