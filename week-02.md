@@ -26,38 +26,11 @@ This week you move from simple sequential code to code that *thinks* and *repeat
 - Score ≥ 60 → "C"
 - Below 60 → "Fail"
 
-```python
-score = int(input("Enter your score: "))
-
-if score >= 90:
-    print("Grade: A")
-elif score >= 75:
-    print("Grade: B")
-elif score >= 60:
-    print("Grade: C")
-else:
-    print("Grade: Fail")
-```
-
----
-
 ### Day 2 — Nested `if` & Short Circuit Evaluation *(~1–1.5 hrs)*
 - [x] Watch Section 12: Nested `if` — conditions inside conditions
 - [x] Watch Section 13: Short Circuit (`and`, `or`, `not`) & Chaining (`1 < x < 10`)
 
 **Mini-task:** Write a login validator. Check if a username is "admin" **and** a password is "1234". Use short circuit evaluation — only check the password if the username is correct.
-
-```python
-username = input("Username: ")
-password = input("Password: ")
-
-if username == "admin" and password == "1234":
-    print("Access granted!")
-else:
-    print("Access denied.")
-```
-
-Also try: `10 < 50 < 100` — explain to yourself why Python allows this chaining.
 
 ---
 
