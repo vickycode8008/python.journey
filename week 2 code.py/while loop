@@ -6,10 +6,10 @@ while i <= 10:
     print(n, "*", i, "=", n * i)
     i = i + 1
 
-    
+
 #one more problem using while loop for get the value to show the remander
-a = 123456789
-while a > 0 :
-    r = a%10
-    print(r)
-    a = a//10
+a = 123456789 # get value from user
+while a > 0 : # condition from while loop
+    r = a%10  # they will get remainder that the last  digits from the value
+    print(r)  #print the value of r
+    a = a//10 #it used to check the next value if not use it they will be in loop 
