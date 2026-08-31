@@ -1,7 +1,7 @@
-#using while loop 
-n = 3
-i = 1
 
-while i <= 10:
-    print(n, "*", i, "=", n * i)
-    i = i + 1
+#one more problem using while loop for get the value to show the remander
+a = 123456789
+while a > 0 :
+    r = a%10
+    print(r)
+    a = a//10
