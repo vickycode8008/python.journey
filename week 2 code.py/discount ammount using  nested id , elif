@@ -1,3 +1,5 @@
+#finding discount for your amount:
+
 amount = float(input("Enter the amount: "))
 
 if amount <= 1000:
