@@ -50,5 +50,5 @@ while n>0:
     r = n%10    #for getting last digit
     rev = rev*10+r #for rev value ypu should "*"byu 10 then only you got crt answer otherwise you are get the sum 
     n = n//10  #for removing the last digit
-    print(rev) 
-
+    print(rev)  #Note - its not reverse the value end with 0 likr this"2500" it excute - 52 only
+ 
