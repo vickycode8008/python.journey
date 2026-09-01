@@ -27,5 +27,15 @@ n = int(input("Enter the number:")) #get input from user
 i = 0   # now i value are 0
 while n > 0 :
     i = i + 1  #from here whenever they excuted they add 1
-    n= n// 10 #for removing the last digit
+    n= n // 10 #for removing the last digit
     print(i)  #it print the value i in output
+
+
+#Sum of the number:
+n = int (input("Enter the number:"))#get input from user
+sum = 0 #here sum value are 0
+while n>0:
+    r = n%10 #it store the value of last digit 
+    sum = sum + r #it add the r in sum 
+    n = n // 10 #it delete the last digit
+    print(sum)
