@@ -1,0 +1,9 @@
+n = 10
+i = 0
+sum = 0
+print("Enter" , n ,"number")
+while i < n:
+    i += 1
+    x = int(input(""))
+    sum += x 
+print("sum:",sum)
