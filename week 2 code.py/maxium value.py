@@ -7,5 +7,5 @@ while i < n:                                    #check whether the value will be
     x = int(input(""))                           #enter the number
     if x > max :                                   #if condition for check the maxmium value
         max = x                                    # if "x > max" store the value in max
-    else :                                          #else condition
-        print("MAX : ",max)                         #print the value in max 
+print("MAX : ",max)                                       #else condition                    
+                                            #          #print the value in max 
