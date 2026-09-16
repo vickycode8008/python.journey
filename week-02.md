@@ -49,39 +49,13 @@ This week you move from simple sequential code to code that *thinks* and *repeat
 - [ ] Watch Section 14: `while` loop — condition-driven repetition, `break`, `continue`, `else` on loops
 - [ ] Understand infinite loops and how to avoid them
 
-**Mini-task:** Write a number guessing game using a `while` loop — the program picks a secret number (hardcode it), and the user keeps guessing until they get it right. Print "Too high", "Too low", or "Correct!" each attempt.
 
-```python
-secret = 42
-guess = 0
-
-while guess != secret:
-    guess = int(input("Guess the number: "))
-    if guess < secret:
-        print("Too low!")
-    elif guess > secret:
-        print("Too high!")
-
-print("Correct! 🎉")
-```
 
 ---
 
 ### Day 5 — `for` Loop, Nested Loops & `match` *(~1–1.5 hrs)*
 - [ ] Watch Section 15: `for` loop — iterating over ranges and sequences, `range()`
 - [ ] Watch Section 16: Nested loops & `match` case (Python 3.10+ structural pattern matching)
-
-**Mini-task 1:** Print a multiplication table for any number the user inputs using a `for` loop.
-
-**Mini-task 2:** Print a right-angled triangle pattern of stars with nested loops (5 rows).
-
-```python
-for i in range(1, 6):
-    print("* " * i)
-```
-
-**Mini-task 3:** Use a `match` statement to print the day type (Weekday/Weekend) based on a day name input.
-
 ---
 
 ### Day 6 — Review & Light Practice *(~45 min)*
@@ -89,7 +63,6 @@ for i in range(1, 6):
 - [ ] Redo the grade classifier and guessing game from memory
 - [ ] Make sure you understand the difference between `break` and `continue`
 
-**Mini-task:** Write a script that prints all even numbers between 1 and 50 using both a `for` loop and a `while` loop.
 
 ---
 
@@ -105,17 +78,3 @@ By Sunday, you should be able to **write programs that make decisions and repeat
 
 ---
 
-## Mini Project / Practice Challenge
-
-**"FizzBuzz + Extras"**
-
-Print numbers 1–100 with the classic FizzBuzz rules, but add a twist:
-- Divisible by 3 → "Fizz"
-- Divisible by 5 → "Buzz"
-- Divisible by both → "FizzBuzz"
-- Divisible by 7 → append "Boom" (e.g., "FizzBoom", "Boom")
-- Otherwise → the number itself
-
-This exercises nested conditions, `for` loops, and the `%` operator all at once.
-
----
