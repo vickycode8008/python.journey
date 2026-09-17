@@ -1,0 +1,9 @@
+i = 0 
+while i < 10:
+    i = i+1
+    print(i)
+    if i == 7:    #using this line of code for the program will be stop when the value of i will be 3
+        break     #using this condition for the program will be end the loop
+else:
+    print("Loop")
+print("End of the program")    #it always excutes even condition is true/false
