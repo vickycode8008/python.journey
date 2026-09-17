@@ -1,0 +1,6 @@
+i = 0
+while i < 10:         #here i will be less than 10
+    i = i + 1   
+    if i%2 == 0:      #here i will be divide by 2 and remainder will be "0" it not print the value 
+        continue      #using this "condition" for in loop until the if condition will be false
+    print (i)
