@@ -46,15 +46,15 @@ This week you move from simple sequential code to code that *thinks* and *repeat
 ---
 
 ### Day 4 — `while` Loop *(~1–1.5 hrs)*
-- [ ] Watch Section 14: `while` loop — condition-driven repetition, `break`, `continue`, `else` on loops
-- [ ] Understand infinite loops and how to avoid them
+- [x] Watch Section 14: `while` loop — condition-driven repetition, `break`, `continue`, `else` on loops
+- [x] Understand infinite loops and how to avoid them
 
 
 
 ---
 
 ### Day 5 — `for` Loop, Nested Loops & `match` *(~1–1.5 hrs)*
-- [ ] Watch Section 15: `for` loop — iterating over ranges and sequences, `range()`
+- [x] Watch Section 15: `for` loop — iterating over ranges and sequences, `range()`
 - [ ] Watch Section 16: Nested loops & `match` case (Python 3.10+ structural pattern matching)
 ---
 
