@@ -1,0 +1,5 @@
+n = int(input("Enter a number:")) #get input from user
+fact = 1             #fact will must be 1
+for i in range (1,n+1):    #for range condition n+1 is for printing until the user input
+    fact = fact * i     #fact = fact*i for it will multiply the value of i
+print ("The factorial =" , fact)  #print the fact value
