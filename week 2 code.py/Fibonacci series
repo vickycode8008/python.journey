@@ -1,0 +1,8 @@
+n = int (input("Enter the number:")) #get binput from user
+a = 0                    #starting a will be 0
+b = 1                    #starting a will be 1
+for i in range(0,n):    #the for loop will be the condition , so that the range starting from 0 till n 
+    c = a + b           #c = a + b coz,the value c will be add a,b
+    a = b               # a = b , the value of a and b will be same
+    b = c              # b = c , the value of b and c will be same
+print(a)               #print value of a
