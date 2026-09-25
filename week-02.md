@@ -55,21 +55,21 @@ This week you move from simple sequential code to code that *thinks* and *repeat
 
 ### Day 5 — `for` Loop, Nested Loops & `match` *(~1–1.5 hrs)*
 - [x] Watch Section 15: `for` loop — iterating over ranges and sequences, `range()`
-- [ ] Watch Section 16: Nested loops & `match` case (Python 3.10+ structural pattern matching)
+- [x] Watch Section 16: Nested loops & `match` case (Python 3.10+ structural pattern matching)
 ---
 
 ### Day 6 — Review & Light Practice *(~45 min)*
-- [ ] Review all control flow concepts from the week
-- [ ] Redo the grade classifier and guessing game from memory
-- [ ] Make sure you understand the difference between `break` and `continue`
+- [x] Review all control flow concepts from the week
+- [x] Redo the grade classifier and guessing game from memory
+- [x] Make sure you understand the difference between `break` and `continue`
 
 
 ---
 
 ### Day 7 — Buffer & Catch-Up Day *(~30–45 min)*
-- [ ] Catch up on anything unclear
-- [ ] Write a 3–5 bullet summary of the week
-- [ ] Draft and post your LinkedIn update
+- [x] Catch up on anything unclear
+- [x] Write a 3–5 bullet summary of the week
+- [x] Draft and post your LinkedIn update
 
 ---
 
