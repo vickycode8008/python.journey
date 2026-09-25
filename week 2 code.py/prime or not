@@ -1,0 +1,9 @@
+n = int(input("Enter the number:"))
+count = 0    #starting count will be 0
+for i in range(1,n+1):   #want to print n+1 till the number of n
+   if n %i  == 0:       #it check the remainder is 0 or not only 0, it will go next line otherwise it print else statement
+    count = count + 1   #adding count 
+if count == 2:   #only count = 2 the statement will print otherwise else 
+    print("PRIME NUMBER")
+else:
+    print("NOT A PRIME NUMBER")
