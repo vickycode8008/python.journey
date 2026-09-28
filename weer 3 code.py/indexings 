@@ -1,0 +1,24 @@
+#without index 
+s1 = "Hello World"
+s2 = s1[ : ]
+print(s2)
+
+#using the index value we will get the char in the array
+s1 = "Hello World"
+s2 = s1[0:12]
+print(s2)
+
+#In this we use the step value
+s1 = "Hello World"
+s2 = s1[0:12:3]
+print(s2)
+
+#In this we use the negative value also in array to get the char in reverse order using -1
+s1 = "Hello World"
+s2 = s1[-1:-12:-1]
+print(s2)
+
+#Finding the array length 
+s1 = "Hello World"
+s2 = len(s1)
+print(s2)
