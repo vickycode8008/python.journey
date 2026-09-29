@@ -1,0 +1,4 @@
+#just print the credit card last 4digit 
+input = input("Enter the card number:")
+last_digit = input[15:19]
+print(3*"XXXX "+last_digit)
