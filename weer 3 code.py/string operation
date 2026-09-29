@@ -1,0 +1,24 @@
+#Concatenation is nothing but add the two string using the Concatenation
+s1 = "WEL"
+s2 = "COME"
+s3 = s1+s2
+print(s3) 
+
+
+#Repetation is used to give the output in mulitple number of times
+s1 = "HELLO "
+print(s1*2)
+
+
+#membership is used for check whether the string/char is on the input or not
+s1 = "Hello"
+print('H' in s1)  
+print('Z' in s1)
+
+#string comparision is used to compare both are ==/!=/>/>=/</<=
+s1 = 'hello'
+s2 = 'hello'
+s3 = s1 == s2
+print(s3)
+s4 = s1!=s2
+print(s4)
